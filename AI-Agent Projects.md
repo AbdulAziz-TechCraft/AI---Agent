@@ -1,4 +1,3 @@
-# Ai-Agents
 # AI-Agent Projects
 
 | Topic            | PDF Link                                                                                                                                     | Streamlit App                                                                                      | Colab Notebook                                                                                                                                           |
